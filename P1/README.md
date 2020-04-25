@@ -3,6 +3,7 @@ P1 - This assignment creates a maze that has a leprechaun in search of a pot of 
 The assignment used files written by my school and I had to complete part of the main as well as two other methods
 
 Code that I wrote it contained in MazeSolver.java
+
 Lines 55-65 (completed in main)
   Loop through the maze row by row, column by column to find the Leprechaun's current position
   Once the Leprechaun is found, exit the loop and print the current row and column and store the values
