@@ -1,9 +1,3 @@
-// MazeSolver.java - solution for recursive maze assignment
-// Author: Chris Wilcox
-// Date:   12/27/2016
-// Class:  CS165
-// Email:  wilcox@cs.colostate.edu
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
